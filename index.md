@@ -2,3 +2,6 @@
 ## this is the test
 this is the test infos
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+``` javascript
+var myVar = "Hello, world!";
+```
